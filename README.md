@@ -2,7 +2,7 @@
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@W2H_MUSIC_1_bot](https://t.me/W2H_MUSIC_1_BOT)
+### Available on telegram as [@W2H_MUSIC1_bot](https://t.me/W2H_MUSIC_1_BOT)
 
 <p align="center">
   <img src="https://telegra.ph/file/bfdae5228dbe6d1c92f93.jpg">
