@@ -16,3 +16,4 @@ future
 psutil
 wget
 tswift
+youtube_dl
