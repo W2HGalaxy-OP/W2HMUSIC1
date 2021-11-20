@@ -16,4 +16,4 @@ future
 psutil
 wget
 tswift
-git+https://github.com/W2HGalaxy-OP/yt-dl@master
+youtube_dl
