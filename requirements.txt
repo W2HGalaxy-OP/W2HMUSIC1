@@ -16,4 +16,4 @@ future
 psutil
 wget
 tswift
-youtube_dl
+git+https://github.com/w2hmusic1/yt-dl@master
