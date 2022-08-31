@@ -135,7 +135,7 @@ Also W2HMUSIC1 is inspired by many opensource bots and userbots
 ## Copyright & License 👮
 
  - Copyright (C) 2020 - 2021 by [W2HGalaxy-OP](github.com/W2HGalaxy-OP) ❤️️
- - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/W2HGalaxy-OP/W2HMUSIC1/blob/master/LICENSE)
+ - Licensed undGNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/W2HGalaxy-OP/W2HMUSIC1/blob/master/LICENSE)
     
 W2HMUSIC1 is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
 ## Made with ♥️ by [W2HGalaxy-OP](https://github.com/W2HGalaxy-OP)
